@@ -31,5 +31,3 @@
 
 <h1>GitHub Trophies</h1>
 <img src="https://github-profile-trophy.vercel.app/?username=toshiki-git&theme=discord&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
