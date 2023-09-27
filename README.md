@@ -21,7 +21,7 @@
 <table>
     <tr>
         <td><img src="https://github-readme-stats-six-azure.vercel.app/api?username=toshiki-git&count_private=true" alt="GitHub Stats"/></td>
-        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toshiki-git&theme=default" alt="Profile Details"/></td>
+        <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toshiki-git" alt="Profile Details"/></td>
     </tr>
     <tr>
         <td><img src="https://github-readme-stats-six-azure.vercel.app/api/top-langs/?username=toshiki-git&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages"/></td>
