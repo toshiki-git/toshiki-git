@@ -20,7 +20,7 @@
 <h1>GitHub Stats:</h1>
 <table>
     <tr>
-        <td><img src="https://github-readme-stats-six-azure.vercel.app/api?username=toshiki-git&show_icons=true&count_private=true&theme=default&hide_border=true" alt="GitHub Stats"/></td>
+        <td><img src="https://github-readme-stats-six-azure.vercel.app/api?username=toshiki-git" alt="GitHub Stats"/></td>
         <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toshiki-git&theme=default" alt="Profile Details"/></td>
     </tr>
     <tr>
