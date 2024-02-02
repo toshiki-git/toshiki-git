@@ -16,6 +16,9 @@
     <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/></a>
     <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
     <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/349342/docker.svg" alt="docker" width="40" height="40"/></a>
+    <a href="https://golang.org/" target="_blank" rel="noreferrer"><img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="golang" width="40" height="40"/></a>
+
 </p>
 
 
